@@ -2,7 +2,7 @@
 For OOP courses 
 
 # Member 
-Trần Hiếu Minh
+Trần Hiếu Minh \n
 Phí Mạnh Hùng
 
 # Group 5
